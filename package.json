@@ -1,0 +1,24 @@
+{
+  "name": "moleculer-context-logger",
+  "version": "1.0.0",
+  "description": "给 moleculer项目的ctx 添加 logger，满足项目的requestID需求",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soluty/moleculer-context-logger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soluty/moleculer-context-logger/issues"
+  },
+  "homepage": "https://github.com/soluty/moleculer-context-logger#readme",
+  "dependencies": {
+    "base64id": "^1.0.0",
+    "moleculer": "^0.13.4"
+  }
+}
